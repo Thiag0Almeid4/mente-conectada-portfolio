@@ -15,7 +15,7 @@ const Cover = () => {
       <div className="relative z-10 text-center px-6 max-w-4xl">
         <div className="space-y-8">
           <div className="space-y-2 text-primary-foreground/90 text-sm tracking-wide">
-            <p>UNIVERSIDADE VILA VELHA - UVV</p>
+            <p>Centro Universitário Unifacig</p>
             <p>Curso de Psicologia</p>
             <p>Disciplina: Empreendedorismo e Gestão em Psicologia</p>
             <p>Professora: [Nome da Professora]</p>

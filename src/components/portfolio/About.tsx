@@ -20,7 +20,7 @@ const About = () => {
             <Card className="p-8 space-y-4">
               <h3 className="text-2xl font-semibold text-primary">Gabriela Dutra Emerich</h3>
               <p className="text-muted-foreground leading-relaxed">
-                Estudante do 8° período de Psicologia na Universidade Vila Velha (UVV), com ênfase em Psicologia Clínica. 
+                Estudante do 8° período de Psicologia na Centro Universitário Unifacig, com ênfase em Psicologia Clínica. 
                 Ao longo da minha trajetória acadêmica, desenvolvi profundo interesse pela interseção entre saúde mental 
                 e tecnologia, reconhecendo o potencial transformador das plataformas digitais no acesso democratizado 
                 aos cuidados psicológicos.

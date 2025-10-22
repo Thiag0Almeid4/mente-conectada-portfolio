@@ -95,8 +95,8 @@ const References = () => {
           <p className="text-xl font-semibold text-primary mb-2">Gabriela Dutra Emerich</p>
           <p className="text-muted-foreground mb-4">8° Período de Psicologia - Ênfase Clínica</p>
           <p className="text-muted-foreground text-sm">
-            Universidade Vila Velha (UVV)<br />
-            Disciplina: Empreendedorismo e Gestão em Psicologia<br />
+            Centro Universitário Unifacig <br />
+            Disciplina: Ênfase clínica<br />
             2024/2
           </p>
         </Card>
