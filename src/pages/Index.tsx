@@ -7,6 +7,8 @@ import Introduction from "@/components/portfolio/Introduction";
 import ServiceDescription from "@/components/portfolio/ServiceDescription";
 import TargetAudience from "@/components/portfolio/TargetAudience";
 import BusinessPlan from "@/components/portfolio/BusinessPlan";
+import TechnicalFeatures from "@/components/portfolio/TechnicalFeatures";
+import UseCases from "@/components/portfolio/UseCases";
 import ExpectedImpact from "@/components/portfolio/ExpectedImpact";
 import CriticalReflection from "@/components/portfolio/CriticalReflection";
 import References from "@/components/portfolio/References";
@@ -19,9 +21,11 @@ const sections = [
   { id: 3, title: "Descrição do Serviço", component: ServiceDescription },
   { id: 4, title: "Público-Alvo & Diferenciais", component: TargetAudience },
   { id: 5, title: "Plano de Estruturação", component: BusinessPlan },
-  { id: 6, title: "Impacto Esperado", component: ExpectedImpact },
-  { id: 7, title: "Reflexão Crítica", component: CriticalReflection },
-  { id: 8, title: "Referências", component: References },
+  { id: 6, title: "Recursos Técnicos", component: TechnicalFeatures },
+  { id: 7, title: "Casos de Uso Práticos", component: UseCases },
+  { id: 8, title: "Impacto Esperado", component: ExpectedImpact },
+  { id: 9, title: "Reflexão Crítica", component: CriticalReflection },
+  { id: 10, title: "Referências", component: References },
 ];
 
 const Index = () => {
