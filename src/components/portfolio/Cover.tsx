@@ -33,7 +33,7 @@ const Cover = () => {
           <div className="space-y-3 text-primary-foreground/90">
             <p className="text-lg">Gabriela Dutra Emerich</p>
             <p>8° Período - Ênfase Clínica</p>
-            <p className="text-sm pt-6">2024/2</p>
+            <p className="text-sm pt-6">2025/2</p>
           </div>
         </div>
       </div>

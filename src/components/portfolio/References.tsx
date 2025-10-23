@@ -97,7 +97,7 @@ const References = () => {
           <p className="text-muted-foreground text-sm">
             Centro Universitário Unifacig <br />
             Disciplina: Ênfase clínica<br />
-            2024/2
+            2025/2
           </p>
         </Card>
       </div>
