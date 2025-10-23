@@ -18,7 +18,7 @@ const Cover = () => {
             <p>Centro Universitário Unifacig</p>
             <p>Curso de Psicologia</p>
             <p>Disciplina: Empreendedorismo e Gestão em Psicologia</p>
-            <p>Professora: [Nome da Professora]</p>
+            <p>Professora: Kesley Bertany</p>
           </div>
 
           <div className="space-y-6 py-12">
