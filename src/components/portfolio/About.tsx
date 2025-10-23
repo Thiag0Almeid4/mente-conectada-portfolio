@@ -1,4 +1,4 @@
-import authorPortrait from "@/assets/author-portrait.jpg";
+import authorPortrait from "@/assets/author-portrait.jpeg";
 import { Card } from "@/components/ui/card";
 
 const About = () => {
