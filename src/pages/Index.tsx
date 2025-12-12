@@ -98,7 +98,7 @@ const Index = () => {
       </main>
 
       {/* Navigation Controls */}
-      <div className="fixed bottom-8 left-1/2 -translate-x-1/2 flex items-center gap-4 bg-card border border-border rounded-full px-6 py-3 shadow-lg">
+      {/*<div className="fixed bottom-8 left-1/2 -translate-x-1/2 flex items-center gap-4 bg-card border border-border rounded-full px-6 py-3 shadow-lg">
         <Button
           variant="outline"
           size="icon"
@@ -122,7 +122,7 @@ const Index = () => {
         >
           <ChevronRight className="h-5 w-5" />
         </Button>
-      </div>
+      </div>*/}
     </div>
   );
 };
